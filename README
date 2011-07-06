@@ -1,0 +1,4 @@
+Code written in Fall 2010.
+If there are lots of images, it may tak ea long time.
+Instead of storing the destination and then downloading all at once, I could download each photo as it's being pulled. 
+
