@@ -19,7 +19,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Code written in March 2010.
+ * Code written in Fall 2010.
  * If there are lots of images, it may take a long time. 
  * Could just download each photo as it's being pulled instead
  * of storing all the destinations, then downloading.
